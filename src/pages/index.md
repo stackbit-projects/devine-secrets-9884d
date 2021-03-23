@@ -214,7 +214,9 @@ seo:
     - name: 'twitter:title'
       value: 'Devine Secrets scented soy wax candles, melts, plus more.'
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: >-
+        Devine Secrets scented soy wax candles, melts, diffusers, plus more.
+        Port Macquarie, Mid North Coast, NSW Australia 2444.
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
