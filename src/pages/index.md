@@ -212,7 +212,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: 'Devine Secrets scented soy wax candles, melts, diffusers, plus more.'
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
