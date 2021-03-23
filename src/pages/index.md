@@ -191,7 +191,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
+  title: Scented Soy Candles Online | Australian Made | Devine Secrets 2021
   description: >-
     Premier Australian soy wax candles, melts, and diffusers made at Port
     Macquarie, Mid North Coast, NSW Australia.
