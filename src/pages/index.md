@@ -200,7 +200,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: 'Devine Secrets scented soy wax candles, melts, plus more.'
       keyName: property
     - name: 'og:description'
       value: 'Devine Secrets scented soy wax candles, melts, diffusers, plus more.'
