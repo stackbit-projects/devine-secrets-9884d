@@ -220,7 +220,7 @@ seo:
         Devine Secrets scented soy wax candles, melts, diffusers, plus more.
         Port Macquarie, Mid North Coast, NSW Australia 2444.
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /images/devine-secrets-2560.jpg
       relativeUrl: true
 template: advanced
 ---
