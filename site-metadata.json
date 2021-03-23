@@ -126,7 +126,20 @@
                 "type": "action"
             }
         ],
-        "content": "Copyright 2021 Devine Secrets"
+        "content": "Copyright 2021 Devine Secrets",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "Stackbit Startup Theme",
     "domain": "https://devine-secrets-9884d.netlify.app",
