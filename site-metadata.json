@@ -141,7 +141,8 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Copyright 2021 Devine Secrets"
     },
     "title": "Stackbit Startup Theme",
     "domain": "https://devine-secrets-9884d.netlify.app",
