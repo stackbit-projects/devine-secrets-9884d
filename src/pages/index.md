@@ -203,7 +203,9 @@ seo:
       value: 'Devine Secrets scented soy wax candles, melts, plus more.'
       keyName: property
     - name: 'og:description'
-      value: 'Devine Secrets scented soy wax candles, melts, diffusers, plus more.'
+      value: >-
+        Devine Secrets scented soy wax candles, melts, diffusers, plus more.
+        Port Macquarie, Mid North Coast, NSW Australia 2444.
       keyName: property
     - name: 'og:image'
       value: /images/devine-secrets-2560.jpg
