@@ -127,19 +127,7 @@
             }
         ],
         "content": "Copyright 2021 Devine Secrets",
-        "links": [
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/devinesecretcandles/",
-                "style": "link",
-                "has_icon": false,
-                "icon": "instagram",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "Stackbit Startup Theme",
     "domain": "https://devine-secrets-9884d.netlify.app",
