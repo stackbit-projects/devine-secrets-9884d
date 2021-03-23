@@ -192,7 +192,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  description: >-
+    Premier Australian soy wax candles, melts, and diffusers made at Port
+    Macquarie, Mid North Coast, NSW Australia.
   extra:
     - name: 'og:type'
       value: website
